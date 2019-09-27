@@ -43,7 +43,7 @@ color = ["AliceBlue","AntiqueWhite","Aqua","Aquamarine","Azure","Beige",
 def check(i):
     #Used to check library of finished sequences
     #If sequence doesn't exist, create one by using the sequence before that (Recursively)
-    file = "G:/Users/Jozhus/Documents/Python/Dragon/" + str(i) + ".txt"
+    file = "Dragon/" + str(i) + ".txt"
     #My path for stored sequences
     if not os.path.isfile(file):
         if i == 0:
