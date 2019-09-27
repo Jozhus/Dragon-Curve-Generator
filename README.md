@@ -1,4 +1,4 @@
 # Dragon-Curve-Generator
-Generates a dragon curve, first in binary describing the turns, then draws it using turtle. The binary is saved as a text file. Beware, it gets large fast.
+Recursively generates a dragon curve in binary to describe the turns then draws it using turtle. The binary is saved as a text file. Beware, it gets large fast.
 
 2015
